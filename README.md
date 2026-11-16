@@ -84,11 +84,12 @@ To be updated upon publication.
 
 ### Dataset and Code
 
-To be updated following Zenodo archiving and DOI assignment.
+Zenodo. https://doi.org/10.5281/zenodo.24276564
 
 Recommended citation format:
 
-> Gallagher, C.A., Chudzińska, M., & Chimienti, M. (Year). *Data and code for "Beneath the Surface: Approaches to Represent Biological Processes and Responses to Disturbance in Marine Mammal Models"*. Zenodo. https://doi.org/XXXXX
+> Gallagher, C.A., Chudzińska, M., & Chimienti, M. (2026). *Data and code for "Beneath the Surface: Approaches to Represent Biological Processes and Responses to Disturbance in Marine Mammal Models"*. Zenodo. https://doi.org/10.5281/zenodo.24276564
+
 
 ## Licensing
 

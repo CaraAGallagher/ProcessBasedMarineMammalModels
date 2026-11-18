@@ -46,6 +46,9 @@ PreppingTableforShiny.R
 app.R
 ├── Shiny application source code
 
+DataSources.html
+├── Full list of all sources included in the review 
+
 LICENSE
 ├── MIT License governing code in this repository
 
@@ -130,7 +133,7 @@ We acknowledge the DISCAR (Population Consequences of DISturbance on Small CARni
 Funding for Cara Alyse Gallagher was provided through the DFG-funded research training group BioMove (Deutsche Forschungsgemeinschaft Grant GRK 2118).
 
 ## Contact
-
+s
 For questions regarding the dataset, code, or repository, please contact:
 
 **Cara Alyse Gallagher**  
